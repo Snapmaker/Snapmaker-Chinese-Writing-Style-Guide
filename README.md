@@ -10,3 +10,5 @@
 这份指南规定 Snapmaker 内部中文写作中的注意事项。第一章，语言与语法，帮助你用清楚的语言写作，第二章格式与内容架构，帮助你用好看的方式呈现你写的内容。
 
 术语的规范表达不在这份指南的规定范围内。如果有术语概念需要厘清，请咨询 archain@snapmaker,com，中英术语表见 [https://shimo.im/sheets/9YTQWxT6yVkxYHGp](https://shimo.im/sheets/9YTQWxT6yVkxYHGp)。
+
+截至 2021 年 11 月 11 日，石墨文档中的《Snapmaker 中文写作风格指南》已停止维护，今后的更新都会在此 repository 中进行。欢迎指正和探讨，如有建议，可以先在上方提 issue 或者发送邮件至 ginger@snapmaker.com。下面是这份写作风格指南的目录。 
